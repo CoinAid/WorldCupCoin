@@ -1,0 +1,4 @@
+obj/version.o: version.cpp version.h clientversion.h \
+ /root/coins/World_Cup_Coin/src/obj/build.h
+version.cpp version.h clientversion.h :
+ /root/coins/World_Cup_Coin/src/obj/build.h :
